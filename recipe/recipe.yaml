@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.19.1"
+  version: "1.19.2"
 
 package:
   name: straindesign-cobra
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/straindesign/straindesign-${{ version }}.tar.gz
-  sha256: e3a51ac978e07b124ddc07595b421d4cfea0c976b03426800a22948927384489
+  sha256: 6be4896e92c5648f3ab7406f9e86b7782060d20fe2a347a027b6e964fe3f7068
 
 build:
   number: 0
